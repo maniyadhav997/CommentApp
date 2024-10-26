@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.desc {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.inpit {
+  color: #cbd2d9;
+  font-family: 'Roboto';
+}
+.button{
+  color: #ffff;
+  background-color:  #0b69ff;
+  font-family: 'Roboto';
+}
